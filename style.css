@@ -3,3 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
+/*center head*/
+h1 {
+  text-align: center;
+}
